@@ -11,6 +11,8 @@ public class Main {
         // 当文本光标位于高亮显示的文本处时按 Alt+Enter，
         // 可查看 IntelliJ IDEA 对于如何修正该问题的建议。
         System.out.printf("Hello and welcome!");
+        System.out.printf("Hello and welcome!1");
+        System.out.printf("Hello and welcome!2");
         System.out.println("aaa");
         SQL_Readin.registersql();
 //        StudentManagement studentManagement=new StudentManagement();
