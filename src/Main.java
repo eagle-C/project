@@ -16,8 +16,9 @@ public class Main {
         System.out.printf("Hello and welcome!2");
         System.out.println("hotfix");
         System.out.println("hotfix2");
-        System.out.println("hotfix2");
+
         System.out.println("aaa");
+        System.out.println("qqqqqqqqqqqqqqqq");
         SQL_Readin.registersql();
 //        StudentManagement studentManagement=new StudentManagement();
 //        ClassCommittee classCommittee=new ClassCommittee();
